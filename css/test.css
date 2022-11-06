@@ -1,0 +1,29 @@
+body{
+	background-color: #FDEDBF;
+}
+
+h1{
+font-size: 60px; 
+color: #C1C9A2;
+}
+
+h2{
+font-size: 30px; 
+color: #B9B5D6;
+}
+
+.big{
+font-size: 80px;
+}
+
+.uppercase{
+text-transform: uppercase;
+}
+
+.big.uppercase{
+text-decoration: underline;
+}
+
+span{
+color: navyh;
+}
