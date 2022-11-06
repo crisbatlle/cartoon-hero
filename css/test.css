@@ -3,11 +3,7 @@ body{
 }
 
 h1{
-<<<<<<< HEAD
-font-size: 80px; 
-=======
-font-size: 60px; 
->>>>>>> parent of b8ef49d (New test1)
+font-size: 80px;  
 color: #C1C9A2;
 }
 
@@ -17,7 +13,7 @@ color: #B9B5D6;
 }
 
 .big{
-font-size: 80px;
+font-size:100px;
 }
 
 .uppercase{
